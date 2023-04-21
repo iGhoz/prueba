@@ -1,0 +1,15 @@
+1.Buscar huevo
+2.Buscar un recipiente
+4.Buscar un plato
+3.Buscar sarten
+4.Buscar aceite
+5.Buscar sal
+6.Romper el huevo en el recipiente
+7.Echar el aciete en el sarten
+8.Poner el sarten en la estufa
+9.Prender la estufa
+10.Poner el huevo que estaba en el recipiente en el sarten que esta en la estufa
+11.Esperar a que este listo
+12.Apagar la estufa
+13.Poner el huevo en el plato
+14.Echar poco sal
